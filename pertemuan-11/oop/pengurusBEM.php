@@ -36,14 +36,4 @@ class pengurusBEM
     {
         return $this->angkatan;
     }
-
-    public function setAngkatan($angkatan)
-    {
-        $this->angkatan = $angkatan;
-    }
-
-    public function getAngkatan()
-    {
-        return $this->angkatan;
-    }
 }
